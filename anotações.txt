@@ -1,0 +1,8 @@
+git status: mostra status dos arquivos, se ele pode ser commitado ou não.
+
+mkdir: cria uma pastar pelo console(git bash)
+
+cd: sai da pasta.
+
+rmdir: deleta toas as pastas vazias
+
